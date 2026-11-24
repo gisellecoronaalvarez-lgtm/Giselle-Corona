@@ -255,56 +255,6 @@
         1,
         1
       ]
-    },
-    "ed11a030-8786-46ab-9771-f781de9e5955": {
-      "components": {
-        "__inre_aparicion__": {
-          "id": "__inre_aparicion__",
-          "name": "inre-aparicion",
-          "parameters": {
-            "cubo": 0.75,
-            "demora": 0,
-            "esGltf": false,
-            "esTextura": false,
-            "esVideo": false
-          }
-        }
-      },
-      "geometry": {
-        "type": "box",
-        "width": 1,
-        "height": 1,
-        "depth": 1
-      },
-      "id": "ed11a030-8786-46ab-9771-f781de9e5955",
-      "material": {
-        "type": "basic",
-        "color": "#7611b6",
-        "textureFiltering": "sharp"
-      },
-      "name": "Cubo",
-      "order": 3.5,
-      "parentId": "acd9db7c-1da3-4dcc-92f5-976f0a8dc8c4",
-      "position": [
-        0,
-        0.5,
-        -2.5
-      ],
-      "rotation": [
-        0,
-        0,
-        0,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ],
-      "shadow": {
-        "castShadow": true,
-        "receiveShadow": true
-      }
     }
   },
   "spaces": {
